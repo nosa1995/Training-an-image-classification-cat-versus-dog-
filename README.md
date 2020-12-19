@@ -1,1 +1,1 @@
-# Training-an-image-classification-cat-versus-dog-
+# Training image classification cat-versus-dog
